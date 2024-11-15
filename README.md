@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/oMLJaPmbUnoC4/giphy.gif?cid=790b7611gz0svsa2ehlkt1xaejz4akie0ll0yojq8qx8ol4s&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -52,7 +52,3 @@
 
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vaibhavpatil2734/vaibhavpatil2734/output/snake.svg" alt="Snake animation" />
