@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="30" alt="photoshop logo" />
+  <img src="https://imgs.search.brave.com/nksgACdLH8qoczxwKMjzi437FEFGTo_OTcJh38nrSTw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL2Fkb2Jl/LXBob3Rvc2hvcC1j/YzMxMzEuanBn" height="30" alt="photoshop logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/VSDC_logo.svg" height="30" alt="vsdc logo" />
 </div>
