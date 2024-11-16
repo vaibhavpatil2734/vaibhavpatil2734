@@ -8,18 +8,21 @@
 </div>
 
 ###
-<div style="display: block; margin-bottom: 20px; text-align: right;">
+
+<!-- Row 1 -->
+<div style="text-align: right; margin-bottom: 20px;">
     <img height="150" src="https://media.giphy.com/media/oMLJaPmbUnoC4/giphy.gif?cid=790b7611gz0svsa2ehlkt1xaejz4akie0ll0yojq8qx8ol4s&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
-<div style="display: block; margin-bottom: 20px; text-align: right;">
+<!-- Row 2 -->
+<div style="text-align: right; margin-bottom: 20px;">
     <img height="150" src="https://media.giphy.com/media/oMLJaPmbUnoC4/giphy.gif?cid=790b7611gz0svsa2ehlkt1xaejz4akie0ll0yojq8qx8ol4s&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
-<div style="display: block; text-align: right;">
+<!-- Row 3 -->
+<div style="text-align: right;">
     <img height="150" src="https://media.giphy.com/media/oMLJaPmbUnoC4/giphy.gif?cid=790b7611gz0svsa2ehlkt1xaejz4akie0ll0yojq8qx8ol4s&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
-
 
 ###
 
@@ -59,6 +62,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
 
 ###
