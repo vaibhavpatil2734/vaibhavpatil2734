@@ -8,11 +8,18 @@
 </div>
 
 ###
-<div style="display: flex; flex-direction: column; align-items: flex-end; gap: 20px;">
-    <img height="150" src="https://media.giphy.com/media/oMLJaPmbUnoC4/giphy.gif?cid=790b7611gz0svsa2ehlkt1xaejz4akie0ll0yojq8qx8ol4s&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-    <img height="150" src="https://media.giphy.com/media/oMLJaPmbUnoC4/giphy.gif?cid=790b7611gz0svsa2ehlkt1xaejz4akie0ll0yojq8qx8ol4s&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<div style="display: block; margin-bottom: 20px; text-align: right;">
     <img height="150" src="https://media.giphy.com/media/oMLJaPmbUnoC4/giphy.gif?cid=790b7611gz0svsa2ehlkt1xaejz4akie0ll0yojq8qx8ol4s&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
+
+<div style="display: block; margin-bottom: 20px; text-align: right;">
+    <img height="150" src="https://media.giphy.com/media/oMLJaPmbUnoC4/giphy.gif?cid=790b7611gz0svsa2ehlkt1xaejz4akie0ll0yojq8qx8ol4s&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
+
+<div style="display: block; text-align: right;">
+    <img height="150" src="https://media.giphy.com/media/oMLJaPmbUnoC4/giphy.gif?cid=790b7611gz0svsa2ehlkt1xaejz4akie0ll0yojq8qx8ol4s&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
+
 
 ###
 
