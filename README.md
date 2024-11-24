@@ -10,7 +10,7 @@
 ###
 
 <div align="right">
-  <img src="https://media.giphy.com/media/xT9DPeXtxIzY9kHL9m/giphy.gif" height="150" alt="india flag gif" />
+  <img src="https://media.giphy.com/media/3TYuocrjKLFC9tuszs/giphy.gif?cid=790b7611hxhczvdzrji8zvyct3akdn7srldcf3twomvkn1yy&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="150" alt="india flag gif" />
 </div>
 
 ###
