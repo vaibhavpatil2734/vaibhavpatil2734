@@ -39,7 +39,6 @@
   <img width="12" />
   <img src="https://imgs.search.brave.com/YF5Dj8ub1hS7U9mX5FfGpuq-y0tOu8lBD0DRNI8MEI0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzEwL2Fkb2JlLXBo/b3Rvc2hvcC1sb2dv/LTAucG5n" height="30" alt="photoshop logo" />
   <img width="12" />
-   <img src="https://imgs.search.brave.com/VmYWI7AY3qQHUWplwjrXdA-ty95jUSpIXCW6wlc_CZ4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJy/b2RsL3N0eWxlcy9j/b21tdW5pdHlJY29u/X3BqMmY4M3RvZWNp/NzEucG5n" height="30" alt="autohotkey logo" />
 </div>
 
 ###
