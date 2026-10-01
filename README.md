@@ -2,13 +2,13 @@
 
 # 👋 **Hi, I'm Vaibhav Patil**
 
-### 💻 **Developer • 🛡️ Cybersecurity Enthusiast • ⚡ Builder**
+💻 Full-Stack Developer • 🛡️ Cybersecurity Analyst
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Python+%7C+AI+%7C+Security;Building+%7C+Breaking+%7C+Securing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=When+the+Signal+Goes+Up%2C+I+Code.;Engineering+by+Day.+Testing+by+Night.;Code+First.+Questions+Always.;Code.+Break.+Secure." alt="Typing SVG" />
 
 <br>
 
-### **📡 Raise the signal. Drop the message. I’ll bring the code.**
+
 
 </div>
 
@@ -82,7 +82,7 @@
 
 <br>
 
-### 🦇 **"Fear the developer who knows where the production logs are."**
+### **📡 Raise the signal. Drop the message. I’ll bring the code.**
 
 </div>
 
