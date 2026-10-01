@@ -66,45 +66,44 @@
 </tr>
 </table>
 
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Recon+%E2%86%92+Enumeration+%E2%86%92+Exploitation;Pivoting+%E2%86%92+Lateral+Movement+%E2%86%92+Post-Exploitation;Web+Security+%7C+Network+Security+%7C+Security+Testing" alt="Security Workflow" />
+<table>
+<tr>
 
-</div>
+<td width="35%" align="center">
 
----
+<img height="130" src="https://media.giphy.com/media/oMLJaPmbUnoC4/giphy.gif" alt="Batman" />
 
-<div align="center">
+</td>
 
-<img height="140" src="https://media.giphy.com/media/oMLJaPmbUnoC4/giphy.gif" alt="Batman" />
+<td width="65%" align="center">
+
+### **📡 Raise the signal. Drop the message.**
+### **I’ll bring the code.**
 
 <br>
 
-### **📡 Raise the signal. Drop the message. I’ll bring the code.**
-
-</div>
-
----
-
-<div align="center">
-
 <a href="https://www.instagram.com/vaibhavpatil_2734">
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" />
 </a>
-
+&nbsp;
 <a href="mailto:vaibhavpatil.2734@gmail.com">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/vaibhav-patil-773987322">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
+</a>
+&nbsp;
+<a href="https://github.com/vaibhavpatil2734">
+<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="28" />
 </a>
 
-<a href="https://github.com/vaibhavpatil2734">
-<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
-</a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
